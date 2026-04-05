@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Data (do not commit raw data or large outputs)
+data/processed/
+data/qwen_triple_results/
+data/qwen_per_dataset_results/
+
+# Kaggle datasets (mount at runtime)
+/kaggle/
+
+# Model checkpoints (large binary files)
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# HuggingFace cache
+.cache/
