@@ -4,7 +4,6 @@
 > Using a fine-tuned vision-language model with three simultaneous tasks.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Dataset](https://img.shields.io/badge/Dataset-Dryad-orange.svg)](https://datadryad.org/dataset/doi:10.5061/dryad.5dv41nsfj)
 [![Platform](https://img.shields.io/badge/Platform-Kaggle%20T4×2-yellow.svg)](https://www.kaggle.com/)
 
@@ -252,23 +251,6 @@ data/qwen_per_dataset_results/
 | CV | 5-fold stratified |
 | Image resolution | MAX_PIXELS = 128×28×28 |
 | Max sequence length | 256 tokens |
-
----
-
-## Citation
-
-If you use this code, please cite the original dataset:
-
-```bibtex
-@misc{hossain2023amr,
-  title  = {Image Dataset of Antimicrobial Resistance Disk Diffusion Plates},
-  author = {Hossain, Abed},
-  year   = {2023},
-  url    = {https://datadryad.org/dataset/doi:10.5061/dryad.5dv41nsfj}
-}
-```
-
----
 
 ## License
 
