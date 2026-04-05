@@ -2,6 +2,7 @@
 
 > **Automated Antimicrobial Resistance Detection from Disk Diffusion Plate Images**
 > Using a fine-tuned vision-language model with three simultaneous tasks.
+<img width="2244" height="1519" alt="plates_esbl_all_models" src="https://github.com/user-attachments/assets/12cd4d64-34cd-41cb-ad98-f7ee9e4da4d5" />
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-Dryad-orange.svg)](https://datadryad.org/dataset/doi:10.5061/dryad.5dv41nsfj)
