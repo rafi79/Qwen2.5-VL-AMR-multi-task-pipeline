@@ -3,6 +3,11 @@
 > **Automated Antimicrobial Resistance Detection from Disk Diffusion Plate Images**
 > Using a fine-tuned vision-language model with three simultaneous tasks.
 <img width="2244" height="1519" alt="plates_esbl_all_models" src="https://github.com/user-attachments/assets/12cd4d64-34cd-41cb-ad98-f7ee9e4da4d5" />
+<img width="2244" height="1519" alt="plates_combination_all_models" src="https://github.com/user-attachments/assets/5ce0672c-2278-43c6-9798-cdbbcd4a787d" />
+<img width="2244" height="1519" alt="plates_carbapenemase_all_models" src="https://github.com/user-attachments/assets/3d757c9a-d62f-4b29-adae-ce48809ad092" />
+<img width="2244" height="1519" alt="plates_ampc_all_models" src="https://github.com/user-attachments/assets/9e0046c0-c8c7-4f07-a9df-a56243d7cdc6" />
+
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-Dryad-orange.svg)](https://datadryad.org/dataset/doi:10.5061/dryad.5dv41nsfj)
@@ -253,6 +258,10 @@ data/qwen_per_dataset_results/
 | Image resolution | MAX_PIXELS = 128×28×28 |
 | Max sequence length | 256 tokens |
 
-## License
 
-MIT License — see [LICENSE](LICENSE)
+<img width="2068" height="2293" alt="plate_single_task" src="https://github.com/user-attachments/assets/e3b98eee-98a8-4577-8182-ad6ec09a571d" />
+
+<img width="2068" height="2293" alt="plate_dual_task" src="https://github.com/user-attachments/assets/aac863d4-34dc-40c6-a4b6-f31009b10ec4" />
+
+<img width="2068" height="2293" alt="plate_triple_task" src="https://github.com/user-attachments/assets/40ff4e8b-d2d3-4229-925c-ed44cfd13ef2" />
+
